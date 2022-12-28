@@ -1,0 +1,9 @@
+.header{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.site-layout-background {
+  background: #fff;
+}
