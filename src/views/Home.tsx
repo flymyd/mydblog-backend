@@ -1,7 +1,7 @@
 import {FC} from "react";
 
 const Home: FC = () => {
-  console.log(import.meta.env)
+  // console.log(import.meta.env)
   return (
     <div>
       <h1>MYD's Blog管理</h1>
